@@ -18,12 +18,12 @@ The file `annotated_dataset.json` contains the following fields:
 - *text*: text extracted from the original document (first 4000 chars)
 - *annotations*: locations annotations with the labels **LOC** and **AST**. This field contains the text of the annotation (*text*), offset references in the document text (*start*, *end*) and type of the annotation (*label*)
 
-## Languages
+### Languages
 The dataset contains English documents
 
-## Annotation process
+### Annotation process
 The annotations are performed by expert analysts in the humanitarian field
 
-## Curators
+### Curators
 The dataset is maintained by Enrico Belliardo - enrico.m.belliardo@gmail.com
 
