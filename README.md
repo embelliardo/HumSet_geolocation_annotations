@@ -12,7 +12,7 @@ Location annotations are performed using 2 tags, according to the general distin
 Annotation were performed by expert analysts in the humanitarian field
 
 ### Description
-The file `annotated_dataset.json` contains the following fields:
+The file `toponym_annotations.json` contains the following fields:
 - *lead_id*: reference to the document id in the HumSet database
 - *source*: url of the original document
 - *text*: text extracted from the original document (first 4000 chars)
@@ -24,6 +24,23 @@ The dataset contains English documents
 ### Annotation process
 The annotations are performed by expert analysts in the humanitarian field
 
-### Curators
+## Geocoding annotations
+### Overview
+the dataset includes 561 unique document/toponym pairs from 39 documents among the HumSet database, annotated with corresponding geonames id (https://www.geonames.org/). There are 474 pairs having non-empty matches, spanning 78 countries.
+
+### Description
+The file `geocoding_annotations.csv` contains the following fields:
+- *lead_id*: reference to the document id in the HumSet database
+- *toponym*: the location entity extracted in the document. Not all entities extracted are correct toponyms 
+- *match*: longest toponym substring matching some results in geonames. Each toponym can have none, one or multiple matches with geonames (e.g. "central america" matches "central" and "america", but not "central america")
+- *geonameid*: id in geonames. It can take different values:
+  - None (empty): there is no correct match fot the toponym extracted in geonames.
+  - -1: The extracted entity is not a toponym, therefore should not be tagged
+  - geonameid (int): geonameid in the geonames database
+
+### Annotation process
+The annotations are performed by the author of the repository
+
+## Curators
 The dataset is maintained by Enrico Belliardo - enrico.m.belliardo@gmail.com
 
