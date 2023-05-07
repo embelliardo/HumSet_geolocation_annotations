@@ -1,562 +1,631 @@
-lead_id,match,geonameid
-304,mediterranean,
-304,eritrea,338010
-304,ethiopia,337996
-304,italy,3175395
-304,libya,2215636
-304,malian,-1
-304,misrata,2214846
-304,niger,2440476
-304,palestine,6254930
-304,somalia,51537
-304,sudan,366755
-304,syria,163843
-304,tripoli,2210247
-304,mediterranean sea,363196
-1258,bani walid,2218840
-1258,italy,3175395
-1258,libya,2215636
-1258,misrata,2214846
-1258,murzuq,2214603
-1258,niger,2440476
-1258,romania,798549
-1258,sabha,2212775
-1258,tripoli,2210247
-1258,ubari,2219235
-1258,detention,
-1258,nafusa mountains,10338121
-2673,ain mara,88498
-2673,al bayda,
-2673,al fatayih,7865308
-2673,benghazi,88319
-2673,derna,87205
-2673,dhar,
-2673,al hamr,
-2673,al salam,
-2673,hay,
-2673,libya,2215636
-2673,martuba,85074
-2673,sahel,
-2673,saida,
-2673,tobruk,81302
-2673,kirsa,
-2673,western,
-2913,aden,415189
-2913,al garrahi,6940727
-2913,al haymah,406130
-2913,al hudaydah,79415
-2913,al mighlaf,78823
-2913,turba,77648
-2913,at tuhayat,6940734
-2913,bayt,7360865
-2913,hadibo,75427
-2913,mukalla,78754
-2913,socotra,9645387
-2913,sukhnah,401672
-2913,taizz,70225
-2913,zabid,69500
-2913,abyan,
-2913,ad durayhimi,80309
-2913,al hudaydah governorate,79416
-2913,al khawkhah,79131
-2913,bait,
-2913,hajdah,75343
-2913,hays district,
-2913,lahj,73560
-2913,maqbanah,407716
-2913,mawza,6940693
-2913,socotra island,70302
-2965,al hudaydah,79415
-2965,abyan,
-2965,aden,80412
-2965,abs,70357
-2965,al had,6940831
-2965,al hudaydah governorate,79416
-2965,taizz,70225
-2965,al khawkhah,79131
-2965,hays district,
-2965,khanfir,6940654
-2965,lahj,73560
-2965,lawdar,73504
-2965,shabwah,70935
-2965,tuban,6940623
-2965,yemen,69543
-2965,zingibar,6940656
-7185,belgium,2802361
-7185,canada,6251999
-7185,romania,798549
-7185,etc,
-7185,finland,660013
-7185,france,3017382
-7185,germany,2921044
-7185,italy,3175395
-7185,libya,2215636
-7185,niger,2440476
-7185,netherlands,2750405
-7185,norway,3144096
-7185,sweden,2661886
-7185,switzerland,2658434
-7185,united kingdom,2635167
-10422,beira,1052373
-10422,cabo delgado,1051823
-10422,dondo,1024696
-10422,maganja da costa,7874711
-10422,manica,1040947
-10422,molumbo,10702916
-10422,morrumbala,1037044
-10422,mozambique,1036973
-10422,muanza,1036687
-10422,namacurra,1034311
-10422,nhamatanda,7873984
-10422,niassa,1030006
-10422,nicoadala,7873988
-10422,quelimane,1028434
-10422,sofala,1026804
-10422,tete,1026010
-10422,zambezia,1024312
-10422,buzi,1029538
-10422,buzi river,1051851
-10422,river basin,
-10422,caia district,7874046
-10422,licungo,1043830
-10422,marromeu,1040397
-10422,mozambique channel,
-10422,sofala province,1026804
-10422,zambezi,1024312
-10422,zambeze,1037109
-13630,abu salim,2220399
-13630,ain zara,2219021
-13630,khallat farjan,2215961
-13630,bin,
-13630,dc,
-13630,qasr,
-13630,sika,
-13630,dcs,
-13630,gharyan,2217362
-13630,sabaa,
-13630,tripoli,2210247
-13630,tripoli airport,6297332
-13630,tripoli international airport,6297332
-13630,wadi,
-14246,belgium,2802361
-14246,canada,6251999
-14246,romania,798549
-14246,etc,
-14246,finland,660013
-14246,france,3017382
-14246,germany,2921044
-14246,italy,3175395
-14246,libya,2215636
-14246,malta,2562770
-14246,netherlands,2750405
-14246,niger,2440476
-14246,norway,3144096
-14246,sweden,2661886
-14246,switzerland,2658434
-14246,united kingdom,2635167
-16558,argentina,3865483
-16558,boa vista,3664980
-16558,brazil,3469034
-16558,chile,3895114
-16558,colombia,3686110
-16558,costa rica,3624060
-16558,curacao,7626836
-16558,ecuador,3658394
-16558,guyana,3378535
-16558,latin,
-16558,america,
-16558,american,
-16558,mexico,3523272
-16558,norte de santander,3673798
-16558,pacaraima,6319358
-16558,panama,3703430
-16558,peru,3932488
-16558,us,
-16558,uruguay,3439705
-16558,venezuela,3625428
-16558,caribbean,
-16558,the dominican,
-16558,dominican republic,3508796
-16558,the city,
-19987,abaco island,3572947
-19987,grand bahama island,3572309
-19987,bahamas,3572887
-19987,barbados,3374084
-19987,caribbean,7729891
-19987,grand bahama,9609565
-19987,nassau,3571824
-19987,panama,3703430
-21596,acre,3665474
-21596,amapa,3407762
-21596,amazon,3665361
-21596,amazonas,3665361
-21596,americas,10861432
-21596,antioquia,3689815
-21596,argentina,3865483
-21596,beni,3923172
-21596,bolivia,3923057
-21596,brazil,3469034
-21596,cauca,3687029
-21596,choco,3686431
-21596,colombia,3686110
-21596,costa rica,3624060
-21596,cordoba,3685889
-21596,d,-1
-21596,c,-1
-21596,ecuador,3658394
-21596,el salvador,3585968
-21596,guatemala,3595528
-21596,guayaramerin,11494400
-21596,guyana,3378535
-21596,honduras,3608932
-21596,mato grosso,3457419
-21596,meta,3674810
-21596,narino,3674021
-21596,nicaragua,3617476
-21596,norte de santander,3673798
-21596,panama,3703430
-21596,pando,3908600
-21596,paraguay,3437598
-21596,para,3393129
-21596,rondonia,3924825
-21596,roraima,3662560
-21596,sena,7729855
-21596,venezuela,3625428
-21596,washington,4140963
-21596,the dominican,
-21596,dominican republic,3508796
-28787,borno state,2346794
-28787,bayo,8659845
-28787,biu,2346995
-28787,bui,9411357
-28787,damboa,2345498
-28787,gwoza,2339665
-28787,jere,8659835
-28787,mmc,
-28787,gubio,2340249
-31209,belize,3582678
-31209,central america,7729892
-31209,costa rica,3624060
-31209,el salvador,3585968
-31209,guatemala,3595528
-31209,honduras,3608932
-31209,nca,-1
-31209,puerto barrios,3591062
-31915,arequipa,3947322
-31915,callao,3946083
-31915,cusco,3941584
-31915,la libertad,3695781
-31915,lambayeque,3695753
-31915,lima,3936456
-31915,madre de dios,3935619
-31915,peru,3932488
-31915,piura,3693528
-31915,tacna,3928128
-31915,tumbes,3691148
-31915,venezuela,3625428
-32026,argentina,3865483
-32026,brazil,3469034
-32026,caribbean,7729891
-32026,el salvador,3585968
-32026,ecuador,3658394
-32026,guatemala,3595528
-32026,latin,
-32026,america,
-32026,mexico,3996063
-32026,peru,3932488
-32026,south america,6255150
-44630,cathedral,-1
-44630,central equatoria,408655
-44630,eastern equatoria,408668
-44630,bus,
-44630,gumbo,
-44630,juba,373303
-44630,lokoloko,
-44630,malakal,370737
-44630,poc,
-44630,nazareth,
-44630,renk,10400839
-44630,south sudan,7909807
-44630,st joseph,
-44630,sudan,366755
-44630,the south,
-44630,torit,365742
-44630,uganda,226074
-44630,wau,363885
-47699,akkar,6201370
-47699,baabda,277226
-47699,beirut,276781
-47699,bekaa,280282
-47699,south governorate,-1
-47699,daher,
-47699,el,
-47699,hermel,6201371
-47699,lebanon,272103
-47699,mount lebanon,9062341
-47699,saida,268064
-47699,tripoli,2210247
-47699,sibline,268525
-47699,tyre,267008
-47699,zgharta,265846
-51278,afghanistan,1149361
-51278,europe,6255148
-51278,iran,130758
-51278,islam qala,1142404
-51278,milak,1160272
-51278,nangarhar,1132366
-51278,pakistan,1168579
-51278,spin boldak,1123906
-51278,torkham,9034791
-51278,turkey,298795
-51278,zaranj,1120985
-52565,adamawa region,2236015
-52565,north region,-1
-52565,east region,-1
-52565,far north region,-1
-52565,west region,-1
-52565,meiganga,2227402
-52565,ngaoundere,2224827
-30866,abyar,
-30866,al bayda,89055
-30866,al khums,2219905
-30866,benghazi,88319
-30866,brak,2218478
-30866,bani,
-30866,bayda,89055
-30866,shati,
-30866,brega,2215210
-30866,derna,87205
-30866,libya,2215636
-30866,eastern,
-30866,jufra,2219944
-30866,marj,
-30866,qaminis,84257
-30866,sebha,2212775
-30866,shahat,8410832
-30866,sirt,2210554
-30866,tripoli,2210247
-30866,tarhuna,2210221
-30866,tobruk,81302
-30866,jareef,
-30866,wadi,
-30866,zawya,
-31256,bolivia,3923057
-31256,brazil,3469034
-31256,dominican republic,3508796
-31256,ecuador,3658394
-31256,el salvador,3585968
-31256,guatemala,3595528
-31256,haiti,3723988
-31256,honduras,3608932
-31256,mexico,3523272
-31256,panama,3703430
-31256,paraguay,3437598
-31256,peru,3932488
-31256,uruguay,3439705
-31256,chile,3895114
-31256,colombia,3686110
-31258,bolivia,3923057
-31258,brazil,3469034
-31258,chile,3895114
-31258,colombia,3686110
-31258,dominican republic,3508796
-31258,ecuador,3658394
-31258,el salvador,3585968
-31258,guatemala,3595528
-31258,haiti,3723988
-31258,honduras,3608932
-31258,mexico,3523272
-31258,panama,3703430
-31258,paraguay,3437598
-31258,peru,3932488
-31258,uruguay,3439705
-65439,deirezzor,170794
-65439,syria,163843
-42114,bolivia,3923057
-42114,brazil,3469034
-42114,bio,
-42114,chile,3895114
-42114,easter island,4030726
-42114,santiago,3871336
-42114,archipelago,
-42114,juan fernandez,8261465
-42114,los rios,6693563
-42114,peru,3932488
-42114,northern,
-42114,southern,
-41126,central america,7729892
-41126,el,-1
-41126,el salvador,3585968
-41126,guatemala,3595528
-41126,honduras,3608932
-41126,mexico,3523272
-41126,nca,-1
-41126,panama,3703430
-41126,salvador,3585968
-41126,san pedro sula,3601782
-41126,tegucigalpa,3600949
-41126,comayaguela,3613314
-31259,bolivia,3923057
-31259,brazil,3469034
-31259,chile,3895114
-31259,colombia,3686110
-31259,dominican republic,3508796
-31259,ecuador,3658394
-31259,el salvador,3585968
-31259,guatemala,3595528
-31259,haiti,3723988
-31259,honduras,3608932
-31259,mexico,3523272
-31259,panama,3703430
-31259,paraguay,3437598
-31259,peru,3932488
-31259,uruguay,3439705
-55207,bade,8659866
-55207,borno state,2346794
-55207,damaturu,2345521
-55207,gashua,2341656
-55207,geidam,2341294
-55207,kanamma,10337567
-55207,nigeria,2328926
-55207,nguru,2328952
-55207,niger,2440476
-55207,republic,
-55207,yobe state,2597367
-55207,yunusari,8659864
-55207,yusufari,8659863
-55207,northern,
-55207,yobe,2597367
-38432,cote divoire,2287781
-38432,nouakchott,2377450
-38432,borno state,2346794
-38432,burkina faso,2361809
-38432,central africa,7729886
-38432,chad,2434508
-38432,chad basin,2233372
-38432,djibo,2361177
-38432,gubio,
-38432,katsina,2334797
-38432,kounoungou,
-38432,maiduguri,2331447
-38432,mali,2453866
-38432,mauritania,2378080
-38432,mentao,2357993
-38432,monguno,2329946
-38432,niger,2440476
-38432,nigeria,2328926
-38432,sahel,2425938
-38432,sokoto,2322907
-38432,tahoua,2439374
-38432,wadi fira,244877
-38432,zamfara,2595349
-21603,argentina,3865483
-21603,uruguay,3439705
-21603,tumbes,3691148
-21603,caribbean,7729891
-21603,chile,3895114
-21603,costa rica,3624060
-21603,costa,-1
-21603,rican,-1
-21603,curacao,7626836
-21603,dominican republic,3508796
-21603,ecuador,3658394
-21603,guyana,3378535
-21603,aruba,3577279
-21603,trinidad and tobago,3573591
-21603,america,10861432
-21603,latin,-1
-21603,mexico,3523272
-21603,panama,3703430
-21603,peru,3932488
-21603,tobago,3573606
-21603,trinidad,3573592
-21603,venezuela,3625428
-31206,belize,3582678
-31206,central america,7729892
-31206,costa rica,3624060
-31206,el salvador,3585968
-31206,guatemala,3595528
-31206,honduras,3608932
-31206,puerto barrios,3591062
-35865,algeria,2589581
-35865,bahrain,290291
-35865,egypt,357994
-35865,iraq,99237
-35865,jordan,248816
-35865,kuwait,285570
-35865,lebanon,272103
-35865,libya,2215636
-35865,morocco,2542007
-35865,oman,286963
-35865,qatar,289688
-35865,saudi arabia,102358
-35865,sudan,366755
-35865,syria,163843
-35865,tunisia,2464461
-35865,uae,290557
-35865,united arab emirates,290557
-35865,yemen,69543
-41017,barahona,3512042
-41017,el seibo,3506189
-41017,hato mayor,3504766
-41017,independencia,3504326
-41017,la romana,3500955
-41017,san pedro,11161633
-45294,balkh,1147288
-45294,provinces,
-45294,faryab,1142226
-45294,maimana,1133453
-45294,mazar,
-45294,e,
-45294,sharif,
-47672,beirut,276780
-47672,el nabatieh,278915
-47672,lebanon,272103
-36128,amajari,6319351
-36128,argentina,3865483
-36128,boa vista,3664980
-36128,bolivia,3923057
-36128,brazil,3469034
-36128,chile,3895114
-36128,colombia,3686110
-36128,dominican republic,3508796
-36128,ecuador,3658394
-36128,haiti,3723988
-36128,norte de santander,3673798
-36128,paraguay,3437598
-36128,peru,3932488
-36128,quito,3652462
-36128,roraima,3662560
-36128,santiago,3871336
-36128,sistema,-1
-36128,international bridge,
-36128,tienditas,
-36128,uruguay,3439705
-36128,venezuela,3625428
-30152,bavaro,11157464
-30152,caracas,3646738
-30152,dr,-1
-30152,dominican republic,3508796
-30152,la romana,3500955
-30152,america,10861432
-30152,latin,-1
-30152,san cristobal,3511540
-30152,santiago,3492918
-30152,santo domingo,3492908
-30152,venezuela,3625428
-506,europe,6255148
-506,libya,2215636
-506,sebha,2212775
-31979,arequipa,3947322
-31979,callao,3946083
-31979,cusco,3941584
-31979,la libertad,3695781
-31979,lambayeque,3695754
-31979,lima,3936456
-31979,madre de dios,3935619
-31979,peru,3932488
-31979,piura,3693528
-31979,spain,2510769
-31979,tacna,3928128
-31979,tumbes,3691148
-31979,venezuela,3625428
+lead_id,toponym,geomatch,geonameid
+304,central mediterranean,mediterranean,
+304,mediterranean,mediterranean,
+304,eritrea,eritrea,338010
+304,ethiopia,ethiopia,337996
+304,italy,italy,3175395
+304,libya,libya,2215636
+304,malian,malian,-1
+304,misrata,misrata,2214846
+304,niger,niger,2440476
+304,palestine,palestine,6254930
+304,somalia,somalia,51537
+304,sudan,sudan,366755
+304,syria,syria,163843
+304,tripoli,tripoli,2210247
+304,the mediterranean sea,mediterranean sea,363196
+1258,bani walid,bani walid,2218840
+1258,italy,italy,3175395
+1258,libya,libya,2215636
+1258,misrata,misrata,2214846
+1258,murzuq,murzuq,2214603
+1258,niger,niger,2440476
+1258,romania,romania,798549
+1258,sabha,sabha,2212775
+1258,tripoli,tripoli,2210247
+1258,ubari,ubari,2219235
+1258,tajoura detention centre,detention,
+1258,nafusa mountains,nafusa mountains,10338121
+1258,the nafusa mountains,nafusa mountains,10338121
+2673,ain mara,ain mara,88498
+2673,al bayda,al bayda,
+2673,al fatayih,al fatayih,7865308
+2673,al fatayih al jadeeda,al fatayih,7865308
+2673,benghazi,benghazi,88319
+2673,derna,derna,87205
+2673,derna city,derna,87205
+2673,western derna,derna,87205
+2673,dhar al hamr,dhar,
+2673,dhar al hamr,al hamr,
+2673,hay al salam,al salam,
+2673,hay al salam,hay,
+2673,libya,libya,2215636
+2673,martuba,martuba,85074
+2673,martuba checkpoint,martuba,85074
+2673,sahel alsharki,sahel,
+2673,saida khadija,saida,
+2673,tobruk,tobruk,81302
+2673,corsah (kirsa) checkpoint,kirsa,
+2673,western derna,western,
+2913,aden,aden,415189
+2913,aden hub,aden,415189
+2913,al garrahi,al garrahi,6940727
+2913,al garrahi district,al garrahi,6940727
+2913,al haymah,al haymah,406130
+2913,al hudaydah,al hudaydah,79415
+2913,al hudaydah city,al hudaydah,79415
+2913,al hudaydah districts,al hudaydah,79415
+2913,al mighlaf,al mighlaf,78823
+2913,al turba,turba,77648
+2913,at tuhayat,at tuhayat,6940734
+2913,at tuhayat district,at tuhayat,6940734
+2913,bayt al faqiah,bayt,7360865
+2913,hadibo,hadibo,75427
+2913,mukalla,mukalla,78754
+2913,socotra,socotra,9645387
+2913,sukhnah,sukhnah,401672
+2913,taizz,taizz,70225
+2913,taizz city,taizz,70225
+2913,taizz governorate,taizz,70225
+2913,zabid district,zabid,69500
+2913,zabid,zabid,69500
+2913,abyan governorate,abyan,
+2913,ad durayhimi district,ad durayhimi,80309
+2913,al hudaydah governorate,al hudaydah governorate,79416
+2913,al khawkhah district,al khawkhah,79131
+2913,bait al faqiah district,bait,
+2913,hajdah hospital,hajdah,75343
+2913,hays district,hays district,
+2913,lahj governorate,lahj,73560
+2913,maqbanah district,maqbanah,407716
+2913,mawza district,mawza,6940693
+2913,socotra island,socotra island,70302
+2965,al hudaydah,al hudaydah,79415
+2965,al hudaydah city,al hudaydah,79415
+2965,abyan,abyan,
+2965,abyan governorate,abyan,
+2965,aden,aden,80412
+2965,abs district,abs,70357
+2965,al had districts,al had,6940831
+2965,al hudaydah governorate,al hudaydah governorate,79416
+2965,taizz governorate,taizz,70225
+2965,al khawkhah district,al khawkhah,79131
+2965,hays district,hays district,
+2965,khanfir,khanfir,6940654
+2965,lahj,lahj,73560
+2965,lahj governorate,lahj,73560
+2965,lawdar,lawdar,73504
+2965,shabwah,shabwah,70935
+2965,tuban,tuban,6940623
+2965,yemen,yemen,69543
+2965,zingibar,zingibar,6940656
+7185,belgium,belgium,2802361
+7185,canada,canada,6251999
+7185,etc romania,romania,798549
+7185,romania,romania,798549
+7185,etc romania,etc,
+7185,finland,finland,660013
+7185,france,france,3017382
+7185,germany,germany,2921044
+7185,italy,italy,3175395
+7185,libya,libya,2215636
+7185,niger,niger,2440476
+7185,netherlands,netherlands,2750405
+7185,norway,norway,3144096
+7185,sweden,sweden,2661886
+7185,switzerland,switzerland,2658434
+7185,united kingdom,united kingdom,2635167
+7185,the united kingdom,united kingdom,2635167
+10422,beira,beira,1052373
+10422,cabo delgado,cabo delgado,1051823
+10422,dondo,dondo,1024696
+10422,maganja da costa,maganja da costa,7874711
+10422,manica,manica,1040947
+10422,molumbo,molumbo,10702916
+10422,morrumbala,morrumbala,1037044
+10422,mozambique,mozambique,1036973
+10422,muanza,muanza,1036687
+10422,namacurra,namacurra,1034311
+10422,nhamatanda,nhamatanda,7873984
+10422,niassa,niassa,1030006
+10422,nicoadala,nicoadala,7873988
+10422,quelimane,quelimane,1028434
+10422,sofala,sofala,1026804
+10422,tete,tete,1026010
+10422,zambezia,zambezia,1024312
+10422,buzi basin,buzi,1029538
+10422,buzi river basin,buzi river,1051851
+10422,buzi river basin,river basin,
+10422,pungoe river basin,river basin,
+10422,caia district,caia district,7874046
+10422,licungo basin,licungo,1043830
+10422,marromeu district,marromeu,1040397
+10422,mozambique channel,mozambique channel,
+10422,sofala province,sofala province,1026804
+10422,zambezi basin,zambezi,1024312
+10422,the zambezi basin,zambezi,1024312
+10422,zambeze basin,zambeze,1037109
+10422,zambeze region,zambeze,1037109
+13630,abu salim,abu salim,2220399
+13630,ain zara,ain zara,2219021
+13630,khallat farjan,khallat farjan,2215961
+13630,qasr bin ghasheer dc,bin,
+13630,"Qasr Bin Ghasheer, Abusliem, Triq al Sika, Al Sabaa, Tajoura, Janzour and Gharyan DCs",bin,
+13630,qasr bin ghasheer dc,dc,
+13630,the gahryan dc,dc,
+13630,the gharyan dc,dc,
+13630,qasr bin ghasheer dc,qasr,
+13630,"Qasr Bin Ghasheer, Abusliem, Triq al Sika, Al Sabaa, Tajoura, Janzour and Gharyan DCs",qasr,
+13630,"Qasr Bin Ghasheer, Abusliem, Triq al Sika, Al Sabaa, Tajoura, Janzour and Gharyan DCs",sika,
+13630,"Qasr Bin Ghasheer, Abusliem, Triq al Sika, Al Sabaa, Tajoura, Janzour and Gharyan DCs",dcs,
+13630,"Qasr Bin Ghasheer, Abusliem, Triq al Sika, Al Sabaa, Tajoura, Janzour and Gharyan DCs",gharyan,2217362
+13630,the gharyan dc,gharyan,2217362
+13630,"Qasr Bin Ghasheer, Abusliem, Triq al Sika, Al Sabaa, Tajoura, Janzour and Gharyan DCs",sabaa,
+13630,tripoli,tripoli,2210247
+13630,central tripoli,tripoli,2210247
+13630,tripoli airport,tripoli airport,6297332
+13630,tripoli international airport,tripoli international airport,6297332
+13630,wadi alrabie,wadi,
+14246,belgium,belgium,2802361
+14246,canada,canada,6251999
+14246,etc romania,romania,798549
+14246,romania,romania,798549
+14246,etc romania,etc,
+14246,finland,finland,660013
+14246,france,france,3017382
+14246,germany,germany,2921044
+14246,italy,italy,3175395
+14246,libya,libya,2215636
+14246,malta,malta,2562770
+14246,netherlands,netherlands,2750405
+14246,niger,niger,2440476
+14246,norway,norway,3144096
+14246,sweden,sweden,2661886
+14246,switzerland,switzerland,2658434
+14246,united kingdom,united kingdom,2635167
+14246,the united kingdom,united kingdom,2635167
+16558,argentina,argentina,3865483
+16558,boa vista,boa vista,3664980
+16558,brazil,brazil,3469034
+16558,chile,chile,3895114
+16558,colombia,colombia,3686110
+16558,costa rica,costa rica,3624060
+16558,curacao,curacao,7626836
+16558,ecuador,ecuador,3658394
+16558,guyana,guyana,3378535
+16558,latin america,latin,
+16558,latin american,latin,
+16558,latin america,america,
+16558,latin american,american,
+16558,mexico,mexico,3523272
+16558,norte de santander,norte de santander,3673798
+16558,pacaraima,pacaraima,6319358
+16558,panama,panama,3703430
+16558,peru,peru,3932488
+16558,us,us,
+16558,uruguay,uruguay,3439705
+16558,venezuela,venezuela,3625428
+16558,caribbean countries,caribbean,
+16558,the dominican republic,the dominican,
+16558,the dominican republic,dominican republic,3508796
+16558,the city of mendoza,the city,
+19987,abaco island,abaco island,3572947
+19987,grand bahama island,grand bahama island,3572309
+19987,bahamas,bahamas,3572887
+19987,northwest bahamas,bahamas,3572887
+19987,barbados,barbados,3374084
+19987,caribbean region,caribbean,7729891
+19987,grand bahama,grand bahama,9609565
+19987,nassau,nassau,3571824
+19987,panama,panama,3703430
+21596,acre,acre,3665474
+21596,amapa,amapa,3407762
+21596,amazon region,amazon,3665361
+21596,amazonas,amazonas,3665361
+21596,americas,americas,10861432
+21596,region of the americas,americas,10861432
+21596,antioquia,antioquia,3689815
+21596,argentina,argentina,3865483
+21596,beni,beni,3923172
+21596,bolivia,bolivia,3923057
+21596,brazil,brazil,3469034
+21596,cauca,cauca,3687029
+21596,choco,choco,3686431
+21596,colombia,colombia,3686110
+21596,costa rica,costa rica,3624060
+21596,cordoba,cordoba,3685889
+21596,d.c,d,-1
+21596,d.c,c,-1
+21596,ecuador,ecuador,3658394
+21596,el salvador,el salvador,3585968
+21596,guatemala,guatemala,3595528
+21596,guayaramerin,guayaramerin,11494400
+21596,guyana,guyana,3378535
+21596,honduras,honduras,3608932
+21596,mato grosso,mato grosso,3457419
+21596,meta,meta,3674810
+21596,narino,narino,3674021
+21596,nicaragua,nicaragua,3617476
+21596,norte de santander,norte de santander,3673798
+21596,panama,panama,3703430
+21596,pando,pando,3908600
+21596,paraguay,paraguay,3437598
+21596,para,para,3393129
+21596,rondonia,rondonia,3924825
+21596,roraima,roraima,3662560
+21596,sena,sena,7729855
+21596,venezuela,venezuela,3625428
+21596,washington,washington,4140963
+21596,the dominican republic,the dominican,
+21596,the dominican republic,dominican republic,3508796
+28787,borno state,borno state,2346794
+28787,bayo,bayo,8659845
+28787,biu,biu,2346995
+28787,bui lgas,bui,9411357
+28787,bui lga,bui,9411357
+28787,damboa,damboa,2345498
+28787,gwoza,gwoza,2339665
+28787,gwoza lga,gwoza,2339665
+28787,jere lga,jere,8659835
+28787,jere,jere,8659835
+28787,mmc lga,mmc,
+28787,hawuland kwayakusarand gubio,gubio,2340249
+31209,belize,belize,3582678
+31209,central america,central america,7729892
+31209,north of central america,central america,7729892
+31209,costa rica,costa rica,3624060
+31209,el salvador,el salvador,3585968
+31209,guatemala,guatemala,3595528
+31209,honduras,honduras,3608932
+31209,nca,nca,-1
+31209,puerto barrios,puerto barrios,3591062
+31915,arequipa,arequipa,3947322
+31915,callao,callao,3946083
+31915,cusco,cusco,3941584
+31915,la libertad,la libertad,3695781
+31915,lambayeque,lambayeque,3695753
+31915,lima,lima,3936456
+31915,madre de dios,madre de dios,3935619
+31915,peru,peru,3932488
+31915,piura,piura,3693528
+31915,tacna,tacna,3928128
+31915,tumbes,tumbes,3691148
+31915,venezuela,venezuela,3625428
+32026,argentina,argentina,3865483
+32026,brazil,brazil,3469034
+32026,caribbean,caribbean,7729891
+32026,the caribbean,caribbean,7729891
+32026,el salvador,el salvador,3585968
+32026,ecuador,ecuador,3658394
+32026,guatemala,guatemala,3595528
+32026,latin america,latin,
+32026,latin america,america,
+32026,mexico,mexico,3996063
+32026,peru,peru,3932488
+32026,south america,south america,6255150
+44630,cathedral,cathedral,-1
+44630,central equatoria,central equatoria,408655
+44630,eastern equatoria,eastern equatoria,408668
+44630,gumbo bus station,bus,
+44630,gumbo bus station,gumbo,
+44630,juba,juba,373303
+44630,lokoloko,lokoloko,
+44630,malakal,malakal,370737
+44630,malakal poc,malakal,370737
+44630,malakal poc,poc,
+44630,nazareth,nazareth,
+44630,renk,renk,10400839
+44630,south sudan,south sudan,7909807
+44630,the south sudan,south sudan,7909807
+44630,st. joseph,st joseph,
+44630,sudan,sudan,366755
+44630,the south sudan,the south,
+44630,torit,torit,365742
+44630,uganda,uganda,226074
+44630,wau,wau,363885
+47699,akkar,akkar,6201370
+47699,baabda,baabda,277226
+47699,beirut,beirut,276781
+47699,bekaa,bekaa,280282
+47699,bekaa governorate,bekaa,280282
+47699,south governorate,south governorate,-1
+47699,daher el bashek,daher,
+47699,daher el bashek,el,
+47699,hermel,hermel,6201371
+47699,lebanon,lebanon,272103
+47699,mount lebanon,mount lebanon,9062341
+47699,saida,saida,268064
+47699,saida hospital,saida,268064
+47699,saida tripoli,saida,268064
+47699,saida tripoli,tripoli,2210247
+47699,sibline isolation centre,sibline,268525
+47699,tyre,tyre,267008
+47699,zgharta,zgharta,265846
+51278,afghanistan,afghanistan,1149361
+51278,europe,europe,6255148
+51278,iran,iran,130758
+51278,islam qala,islam qala,1142404
+51278,milak,milak,1160272
+51278,nangarhar,nangarhar,1132366
+51278,pakistan,pakistan,1168579
+51278,spin boldak,spin boldak,1123906
+51278,torkham,torkham,9034791
+51278,turkey,turkey,298795
+51278,zaranj,zaranj,1120985
+52565,adamawa region,adamawa region,2236015
+52565,north region,north region,-1
+52565,east region,east region,-1
+52565,far north region,far north region,-1
+52565,south west region,west region,-1
+52565,meiganga,meiganga,2227402
+52565,ngaoundere,ngaoundere,2224827
+30866,abyar,abyar,
+30866,al bayda,al bayda,89055
+30866,al khums,al khums,2219905
+30866,benghazi,benghazi,88319
+30866,brak shati,brak,2218478
+30866,bani waleed,bani,
+30866,bayda,bayda,89055
+30866,brak shati,shati,
+30866,brega,brega,2215210
+30866,derna,derna,87205
+30866,eastern libya,libya,2215636
+30866,eastern libya,eastern,
+30866,jufra,jufra,2219944
+30866,marj,marj,
+30866,qaminis,qaminis,84257
+30866,sebha,sebha,2212775
+30866,shahat,shahat,8410832
+30866,sirt,sirt,2210554
+30866,sirt city,sirt,2210554
+30866,sirt region,sirt,2210554
+30866,south tripoli,tripoli,2210247
+30866,tripoli,tripoli,2210247
+30866,tarhuna,tarhuna,2210221
+30866,tobruk,tobruk,81302
+30866,wadi al jareef,jareef,
+30866,wadi al jareef,wadi,
+30866,zawya,zawya,
+31256,bolivia,bolivia,3923057
+31256,brazil,brazil,3469034
+31256,dominican republic,dominican republic,3508796
+31256,ecuador,ecuador,3658394
+31256,el salvador,el salvador,3585968
+31256,guatemala,guatemala,3595528
+31256,haiti,haiti,3723988
+31256,honduras,honduras,3608932
+31256,mexico,mexico,3523272
+31256,panama,panama,3703430
+31256,paraguay,paraguay,3437598
+31256,peru,peru,3932488
+31256,uruguay,uruguay,3439705
+31256,chile,chile,3895114
+31256,colombia,colombia,3686110
+31258,bolivia,bolivia,3923057
+31258,brazil,brazil,3469034
+31258,chile,chile,3895114
+31258,colombia,colombia,3686110
+31258,dominican republic,dominican republic,3508796
+31258,ecuador,ecuador,3658394
+31258,el salvador,el salvador,3585968
+31258,guatemala,guatemala,3595528
+31258,haiti,haiti,3723988
+31258,honduras,honduras,3608932
+31258,mexico,mexico,3523272
+31258,panama,panama,3703430
+31258,paraguay,paraguay,3437598
+31258,peru,peru,3932488
+31258,uruguay,uruguay,3439705
+65439,deirezzor,deirezzor,170794
+65439,northeast syria,syria,163843
+42114,bolivia,bolivia,3923057
+42114,brazil,brazil,3469034
+42114,bio bio,bio,
+42114,chile,chile,3895114
+42114,southern and northern Chile,chile,3895114
+42114,easter island,easter island,4030726
+42114,greater santiago,santiago,3871336
+42114,santiago,santiago,3871336
+42114,juan fernandez archipelago,archipelago,
+42114,juan fernandez archipelago,juan fernandez,8261465
+42114,los rios,los rios,6693563
+42114,peru,peru,3932488
+42114,southern and northern Chile,northern,
+42114,southern and northern Chile,southern,
+41126,central america,central america,7729892
+41126,el,el,-1
+41126,el salvador,el salvador,3585968
+41126,guatemala,guatemala,3595528
+41126,honduras,honduras,3608932
+41126,mexico,mexico,3523272
+41126,nca,nca,-1
+41126,panama,panama,3703430
+41126,salvador,salvador,3585968
+41126,san pedro sula,san pedro sula,3601782
+41126,Tegucigalpa and Comayaguela,tegucigalpa,3600949
+41126,Tegucigalpa and Comayaguela,comayaguela,3613314
+31259,bolivia,bolivia,3923057
+31259,brazil,brazil,3469034
+31259,chile,chile,3895114
+31259,colombia,colombia,3686110
+31259,dominican republic,dominican republic,3508796
+31259,ecuador,ecuador,3658394
+31259,el salvador,el salvador,3585968
+31259,guatemala,guatemala,3595528
+31259,haiti,haiti,3723988
+31259,honduras,honduras,3608932
+31259,mexico,mexico,3523272
+31259,panama,panama,3703430
+31259,paraguay,paraguay,3437598
+31259,peru,peru,3932488
+31259,uruguay,uruguay,3439705
+55207,bade lga,bade,8659866
+55207,borno state,borno state,2346794
+55207,damaturu,damaturu,2345521
+55207,gashua,gashua,2341656
+55207,geidam,geidam,2341294
+55207,geidam lga,geidam,2341294
+55207,geidam town,geidam,2341294
+55207,kanamma town,kanamma,10337567
+55207,northeast nigeria,nigeria,2328926
+55207,nguru,nguru,2328952
+55207,nguru lga,nguru,2328952
+55207,republic of the niger,niger,2440476
+55207,republic of the niger,republic,
+55207,yobe state,yobe state,2597367
+55207,yunusari,yunusari,8659864
+55207,yunusari lga,yunusari,8659864
+55207,yusufari,yusufari,8659863
+55207,northern yobe,northern,
+55207,northern yobe,yobe,2597367
+38432,cote divoire,cote divoire,2287781
+38432,nouakchott,nouakchott,2377450
+38432,borno state,borno state,2346794
+38432,burkina faso,burkina faso,2361809
+38432,central africa,central africa,7729886
+38432,chad,chad,2434508
+38432,chad basin,chad basin,2233372
+38432,djibo,djibo,2361177
+38432,gubio,gubio,
+38432,katsina,katsina,2334797
+38432,kounoungou camp,kounoungou,
+38432,maiduguri,maiduguri,2331447
+38432,mali,mali,2453866
+38432,mauritania,mauritania,2378080
+38432,mentao,mentao,2357993
+38432,monguno,monguno,2329946
+38432,niger,niger,2440476
+38432,nigeria,nigeria,2328926
+38432,north east nigeria,nigeria,2328926
+38432,northeast nigeria,nigeria,2328926
+38432,sahel,sahel,2425938
+38432,sokoto,sokoto,2322907
+38432,tahoua,tahoua,2439374
+38432,wadi fira province,wadi fira,244877
+38432,zamfara,zamfara,2595349
+21603,Argentina and Uruguay,argentina,3865483
+21603,"Peru, Guyana, Aruba, Curacao, Argentina, Uruguay, Dominican Republic, Guyana, Panama and Trinidad and Tobago",argentina,3865483
+21603,Argentina and Uruguay,uruguay,3439705
+21603,"Peru, Guyana, Aruba, Curacao, Argentina, Uruguay, Dominican Republic, Guyana, Panama and Trinidad and Tobago",uruguay,3439705
+21603,CEBAF and Tumbes,tumbes,3691148
+21603,caribbean,caribbean,7729891
+21603,chile,chile,3895114
+21603,costa rica,costa rica,3624060
+21603,costa rican,costa,-1
+21603,costa rican,rican,-1
+21603,curacao,curacao,7626836
+21603,"Guyana, Aruba, Curacao and Trinidad and Tobago",curacao,7626836
+21603,"Peru, Guyana, Aruba, Curacao, Argentina, Uruguay, Dominican Republic, Guyana, Panama and Trinidad and Tobago",curacao,7626836
+21603,dominican republic,dominican republic,3508796
+21603,"Peru, Guyana, Aruba, Curacao, Argentina, Uruguay, Dominican Republic, Guyana, Panama and Trinidad and Tobago",dominican republic,3508796
+21603,ecuador,ecuador,3658394
+21603,guyana,guyana,3378535
+21603,"Guyana, Aruba, Curacao and Trinidad and Tobago",guyana,3378535
+21603,"Peru, Guyana, Aruba, Curacao, Argentina, Uruguay, Dominican Republic, Guyana, Panama and Trinidad and Tobago",guyana,3378535
+21603,"Guyana, Aruba, Curacao and Trinidad and Tobago",aruba,3577279
+21603,"Peru, Guyana, Aruba, Curacao, Argentina, Uruguay, Dominican Republic, Guyana, Panama and Trinidad and Tobago",aruba,3577279
+21603,"Guyana, Aruba, Curacao and Trinidad and Tobago",trinidad and tobago,3573591
+21603,"Peru, Guyana, Aruba, Curacao, Argentina, Uruguay, Dominican Republic, Guyana, Panama and Trinidad and Tobago",trinidad and tobago,3573591
+21603,Trinidad and Tobago,trinidad and tobago,3573591
+21603,latin america,america,10861432
+21603,latin america,latin,-1
+21603,mexico,mexico,3523272
+21603,panama,panama,3703430
+21603,"Peru, Guyana, Aruba, Curacao, Argentina, Uruguay, Dominican Republic, Guyana, Panama and Trinidad and Tobago",panama,3703430
+21603,peru,peru,3932488
+21603,"Peru, Guyana, Aruba, Curacao, Argentina, Uruguay, Dominican Republic, Guyana, Panama and Trinidad and Tobago",peru,3932488
+21603,tobago,tobago,3573606
+21603,rinidad and Tobago,tobago,3573606
+21603,trinidad,trinidad,3573592
+21603,venezuela,venezuela,3625428
+31206,belize,belize,3582678
+31206,central america,central america,7729892
+31206,costa rica,costa rica,3624060
+31206,el salvador,el salvador,3585968
+31206,guatemala,guatemala,3595528
+31206,honduras,honduras,3608932
+31206,puerto barrios,puerto barrios,3591062
+35865,algeria,algeria,2589581
+35865,bahrain,bahrain,290291
+35865,egypt,egypt,357994
+35865,iraq,iraq,99237
+35865,jordan,jordan,248816
+35865,kuwait,kuwait,285570
+35865,lebanon,lebanon,272103
+35865,libya,libya,2215636
+35865,morocco,morocco,2542007
+35865,oman,oman,286963
+35865,qatar,qatar,289688
+35865,saudi arabia,saudi arabia,102358
+35865,sudan,sudan,366755
+35865,syria,syria,163843
+35865,tunisia,tunisia,2464461
+35865,uae,uae,290557
+35865,united arab emirates,united arab emirates,290557
+35865,yemen,yemen,69543
+41017,barahona,barahona,3512042
+41017,el seibo,el seibo,3506189
+41017,hato mayor,hato mayor,3504766
+41017,independencia,independencia,3504326
+41017,la romana,la romana,3500955
+41017,san pedro,san pedro,11161633
+45294,balkh,balkh,1147288
+45294,faryab provinces,provinces,
+45294,faryab provinces,faryab,1142226
+45294,maimana,maimana,1133453
+45294,maimana cities,maimana,1133453
+45294,mazar e sharif,mazar,
+45294,mazar,mazar,
+45294,mazar e sharif,e,
+45294,mazar e sharif,sharif,
+47672,beirut,beirut,276780
+47672,el nabatieh governorates,el nabatieh,278915
+47672,lebanon,lebanon,272103
+36128,amajari,amajari,6319351
+36128,argentina,argentina,3865483
+36128,boa vista,boa vista,3664980
+36128,bolivia,bolivia,3923057
+36128,brazil,brazil,3469034
+36128,chile,chile,3895114
+36128,colombia,colombia,3686110
+36128,dominican republic,dominican republic,3508796
+36128,ecuador,ecuador,3658394
+36128,haiti,haiti,3723988
+36128,norte de santander,norte de santander,3673798
+36128,paraguay,paraguay,3437598
+36128,peru,peru,3932488
+36128,quito,quito,3652462
+36128,roraima,roraima,3662560
+36128,santiago,santiago,3871336
+36128,sistema acolhedor,sistema,-1
+36128,tienditas international bridge,international bridge,
+36128,tienditas international bridge,tienditas,
+36128,uruguay,uruguay,3439705
+36128,venezuela,venezuela,3625428
+30152,bavaro,bavaro,11157464
+30152,caracas,caracas,3646738
+30152,dr,dr,-1
+30152,dominican republic,dominican republic,3508796
+30152,la romana,la romana,3500955
+30152,latin america,america,10861432
+30152,latin america,latin,-1
+30152,san cristobal,san cristobal,3511540
+30152,santiago,santiago,3492918
+30152,santo domingo,santo domingo,3492908
+30152,venezuela,venezuela,3625428
+506,europe,europe,6255148
+506,libya,libya,2215636
+506,sebha,sebha,2212775
+31979,arequipa,arequipa,3947322
+31979,callao,callao,3946083
+31979,cusco,cusco,3941584
+31979,la libertad,la libertad,3695781
+31979,lambayeque,lambayeque,3695754
+31979,lima,lima,3936456
+31979,madre de dios,madre de dios,3935619
+31979,peru,peru,3932488
+31979,piura,piura,3693528
+31979,spain,spain,2510769
+31979,tacna,tacna,3928128
+31979,tumbes,tumbes,3691148
+31979,venezuela,venezuela,3625428
